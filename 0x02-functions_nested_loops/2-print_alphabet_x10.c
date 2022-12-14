@@ -3,6 +3,7 @@
 /**
  * print_alphabet_x10(void) - prints alpha 10 times
  */
+
 void print_alphabet_x10(void)
 {
 	int ten;
@@ -12,6 +13,6 @@ void print_alphabet_x10(void)
 	{
 		for (la = 'a'; la <= 'z'; la++)
 			_putchar(la);
-		putchar('\n');
+		_putchar('\n');
 	}
 }
