@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include "main.h"
-
+#include "main_0.c"
 /**
  * print_to_98 - print all numbers from input to 98
  * @n: the starting number
